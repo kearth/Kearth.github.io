@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kearth.github.io/sitemap.xml
