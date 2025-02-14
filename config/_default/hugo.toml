@@ -1,7 +1,10 @@
+# base info
 baseURL = 'https://kearth.github.io/'
 theme = "blowfish"
 defaultContentLanguage = 'en'
+publishDir = 'docs'
 
+# site info
 enableRobotsTXT = true
 summaryLength = 0
 
