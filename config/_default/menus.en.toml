@@ -12,6 +12,7 @@
 [[main]]
   name = "About"
   weight = 10
+  pageRef = "aboutme.md"
 
 [[main]]
   name = "Posts"

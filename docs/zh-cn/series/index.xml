@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on </title>
-    <link>http://localhost:1313/zh-cn/series/</link>
+    <link>https://kearth.github.io/zh-cn/series/</link>
     <description>Recent content in Series on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <managingEditor>kearth@yeah.net (贾 堃)</managingEditor>
-    <webMaster>kearth@yeah.net (贾 堃)</webMaster>
-    <copyright>© 2025 贾 堃</copyright>
-    <atom:link href="http://localhost:1313/zh-cn/series/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>kearth@yeah.net (Kearth)</managingEditor>
+    <webMaster>kearth@yeah.net (Kearth)</webMaster>
+    <copyright>© 2025 Kearth</copyright>
+    <atom:link href="https://kearth.github.io/zh-cn/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

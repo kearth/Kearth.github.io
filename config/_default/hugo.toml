@@ -4,6 +4,7 @@ theme = "blowfish"
 defaultContentLanguage = 'en'
 publishDir = 'docs'
 
+
 # site info
 enableRobotsTXT = true
 summaryLength = 0

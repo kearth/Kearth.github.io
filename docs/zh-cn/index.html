@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-CN" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
   data-auto-appearance="true"><head>
-	<meta name="generator" content="Hugo 0.139.0"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta name="generator" content="Hugo 0.139.0">
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="zh-CN" />
@@ -16,7 +16,7 @@
   
   
   
-  <link rel="canonical" href="http://localhost:1313/zh-cn/" />
+  <link rel="canonical" href="https://kearth.github.io/zh-cn/" />
   
   <link rel="alternate" type="application/rss+xml" href="/zh-cn/index.xml" title="" />
   
@@ -69,7 +69,7 @@
   
   
   
-  <meta property="og:url" content="http://localhost:1313/zh-cn/">
+  <meta property="og:url" content="https://kearth.github.io/zh-cn/">
   <meta property="og:locale" content="zh_CN">
   <meta property="og:type" content="website">
 
@@ -81,15 +81,15 @@
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "@id": "http:\/\/localhost:1313\/zh-cn\/",
+    "@id": "https:\/\/kearth.github.io\/zh-cn\/",
     "name": "",
     
     "inLanguage": "zh-CN",
-    "url": "http:\/\/localhost:1313\/zh-cn\/",
+    "url": "https:\/\/kearth.github.io\/zh-cn\/",
     
     "publisher" : {
       "@type": "Person",
-      "name": "贾 堃"
+      "name": "Kearth"
     }
   }
   </script>
@@ -97,7 +97,7 @@
 
   
   
-  <meta name="author" content="贾 堃" />
+  <meta name="author" content="Kearth" />
   
   
   
@@ -144,6 +144,29 @@
   
   
   <meta name="theme-color"/>
+  
+  
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyBI2miIIk8LAk-kQcaqGJjVIdj-hl6aWj8",
+      authDomain: "AIzaSyBI2miIIk8LAk-kQcaqGJjVIdj-hl6aWj8",
+      projectId: "github-kearth",
+      storageBucket: "github-kearth.firebasestorage.app",
+      messagingSenderId: "1086445464830",
+      appId: "1:1086445464830:web:36d88fb6b34db0b28fc9af",
+      measurementId: "G-DX0WPZLZTP"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
   
   
 </head>
@@ -530,11 +553,11 @@
                                 
                             
                             <img class="mb-2 rounded-full h-36 w-36" width="144" height="144"
-                                alt="贾 堃" src="/img/avator_hu9442140087229271842.png" />
+                                alt="Kearth" src="/img/avator_hu9442140087229271842.png" />
                         
                     
                     <h1 class="mb-2 text-4xl font-extrabold text-neutral-200">
-                        贾 堃
+                        Kearth
                     </h1>
                     
                     <h2 class="mt-0 mb-0 text-xl text-neutral-300">
@@ -662,7 +685,7 @@
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
       &copy;
       2025
-      贾 堃
+      Kearth
     </p>
     
 
@@ -696,7 +719,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="http://localhost:1313/zh-cn/"
+  data-url="https://kearth.github.io/zh-cn/"
   style="z-index:500"
 >
   <div
