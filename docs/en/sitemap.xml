@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://kearth.github.io/en/</loc>
     <lastmod>2025-03-25T18:04:30+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-CN"
-      href="http://localhost:1313/"
+      href="https://kearth.github.io/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/"
+      href="https://kearth.github.io/en/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/aboutme/</loc>
+    <loc>https://kearth.github.io/en/aboutme/</loc>
     <lastmod>2025-03-25T18:04:30+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-CN"
-      href="http://localhost:1313/aboutme/"
+      href="https://kearth.github.io/aboutme/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/aboutme/"
+      href="https://kearth.github.io/en/aboutme/"
     />
   </url>
 </urlset>
