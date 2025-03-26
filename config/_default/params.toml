@@ -84,7 +84,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
-  seriesOpened = false
+  seriesOpened = true 
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
@@ -96,7 +96,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showAuthorsBadges = false
   showWordCount = true
   sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
-  showZenMode = true 
+  showZenMode = false 
 
 [list]
   showHero = false

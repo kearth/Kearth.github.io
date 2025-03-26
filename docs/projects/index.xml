@@ -2,24 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on </title>
-    <link>https://kearth.github.io/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-CN</language>
     <managingEditor>kearth@yeah.net (Kearth)</managingEditor>
     <webMaster>kearth@yeah.net (Kearth)</webMaster>
     <copyright>© 2025 Kearth</copyright>
-    <atom:link href="https://kearth.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title></title>
-      <link>https://kearth.github.io/projects/tea/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kearth@yeah.net (Kearth)</author>
-      <guid>https://kearth.github.io/projects/tea/</guid>
-      <description></description>
-      
-    </item>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

@@ -1,16 +1,17 @@
 [[main]]
   name = "关于"
   weight = 10
+  pageRef = "aboutme.md"
 
 [[main]]
   name = "文章"
   pageRef = "posts"
   weight = 20
 
-[[main]]
-  name = "项目"
-  pageRef = "projects"
-  weight = 30
+# [[main]]
+#   name = "项目"
+#   pageRef = "projects"
+#   weight = 30
 
  [[footer]]
    name = "标签"

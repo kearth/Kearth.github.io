@@ -1,9 +1,11 @@
 # base info
 baseURL = 'https://kearth.github.io/'
 theme = "blowfish"
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'zh-cn'
 publishDir = 'docs'
 
+hasCJKLanguage = true
+highlightCurrentMenuArea = true
 
 # site info
 enableRobotsTXT = true

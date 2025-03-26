@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://kearth.github.io/zh-cn/tags/</link>
+    <link>http://localhost:1313/zh-cn/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>kearth@yeah.net (Kearth)</managingEditor>
     <webMaster>kearth@yeah.net (Kearth)</webMaster>
     <copyright>© 2025 Kearth</copyright>
-    <atom:link href="https://kearth.github.io/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
