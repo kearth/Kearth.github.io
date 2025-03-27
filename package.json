@@ -9,7 +9,7 @@
     "dev": "hugo server -D",
     "clean": "rm -rf docs resources",
     "build": "hugo && npm run git-push",
-    "git-push": "git add . && git commit -m \"Auto build and deploy: $(date '+%Y-%m-%d %H:%M:%S')\" && git push origin main"
+    "git-push": "node git-push.js" 
   },
   "keywords": [],
   "author": "",
