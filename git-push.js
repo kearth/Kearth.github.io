@@ -7,12 +7,12 @@ try {
         // Windows 系统
         execSync('git add .', { stdio: 'inherit' });
         execSync(`git commit -m "Auto build and deploy: ${date}"`, { stdio: 'inherit' });
-        execSync('git push origin main', { stdio: 'inherit' });
+        execSync('git push', { stdio: 'inherit' });
     } else {
         // Linux 或 macOS 系统
         execSync('git add .', { stdio: 'inherit' });
         execSync(`git commit -m "Auto build and deploy: ${date}"`, { stdio: 'inherit' });
-        execSync('git push origin main', { stdio: 'inherit' });
+        execSync('git push', { stdio: 'inherit' });
     }
     console.log('Git operations completed successfully.');
 } catch (error) {
